@@ -1,0 +1,2340 @@
+	symb xloc = 0.00050 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00055 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00060 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00065 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00070 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00075 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00080 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00085 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00090 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00095 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00100 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00105 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00110 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00115 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00120 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00125 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00130 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00135 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00140 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00145 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00150 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00155 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00160 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00165 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00170 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00175 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00180 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00185 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00190 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00195 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00200 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00205 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00210 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00215 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00220 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00225 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00230 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00235 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00240 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00245 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00250 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00255 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00260 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00265 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00270 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00275 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00280 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00285 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00290 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00295 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00300 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00305 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00310 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00315 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00320 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00325 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00330 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00335 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00340 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00345 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00350 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00355 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00360 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00365 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00370 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00375 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00380 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00385 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00390 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00395 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00400 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00405 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00410 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00415 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00420 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00425 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00430 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00435 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00440 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00445 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00450 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00455 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00460 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00465 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00470 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00475 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00480 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00485 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00490 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00495 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00500 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00505 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00510 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00515 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00520 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00525 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00530 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00535 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00540 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00545 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00550 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00555 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00560 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00565 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00570 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00575 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00580 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00585 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00590 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00595 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00600 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00605 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00610 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00615 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00620 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00625 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00630 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00635 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00640 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00645 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00650 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00655 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00660 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00665 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00670 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00675 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00680 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00685 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00690 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00695 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00700 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00705 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00710 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00715 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00720 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00725 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00730 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00735 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00740 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00745 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00750 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00755 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00760 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00765 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00770 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00775 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00780 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00785 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00790 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00795 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00800 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00805 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00810 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00815 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00820 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00825 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00830 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00835 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00840 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00845 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00850 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00855 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00860 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00865 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00870 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00875 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00880 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00885 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00890 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00895 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00900 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00905 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00910 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00915 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00920 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00925 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00930 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00935 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00940 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00945 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00950 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00955 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00960 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00965 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00970 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00975 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00980 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00985 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00990 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.00995 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01000 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01005 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01010 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01015 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01020 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01025 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01030 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01035 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01040 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01045 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01050 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01055 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01060 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01065 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01070 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01075 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01080 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01085 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01090 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01095 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01100 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01105 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01110 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01115 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01120 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01125 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01130 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01135 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01140 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01145 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01150 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01155 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01160 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01165 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01170 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01175 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01180 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01185 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01190 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01195 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01200 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01205 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01210 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01215 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01220 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01225 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01230 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01235 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01240 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01245 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01250 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01255 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01260 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01265 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01270 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01275 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01280 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01285 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01290 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01295 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01300 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01305 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01310 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01315 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01320 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01325 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01330 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01335 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01340 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01345 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01350 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01355 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01360 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01365 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01370 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01375 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01380 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01385 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01390 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01395 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01400 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01405 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01410 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01415 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01420 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01425 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01430 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01435 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01440 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01445 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01450 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01455 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01460 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01465 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01470 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01475 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01480 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01485 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01490 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01495 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01500 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01505 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01510 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01515 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01520 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01525 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01530 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01535 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01540 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01545 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01550 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01555 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01560 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01565 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01570 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01575 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01580 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01585 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01590 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01595 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01600 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01605 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01610 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01615 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01620 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01625 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01630 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01635 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01640 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01645 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01650 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01655 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01660 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01665 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01670 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01675 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01680 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01685 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01690 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01695 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01700 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01705 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01710 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01715 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01720 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01725 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01730 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01735 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01740 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01745 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01750 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01755 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01760 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01765 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01770 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01775 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01780 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01785 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01790 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01795 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01800 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01805 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01810 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01815 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01820 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01825 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01830 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01835 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01840 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01845 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01850 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01855 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01860 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01865 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01870 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01875 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01880 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01885 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01890 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01895 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01900 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01905 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01910 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01915 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01920 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01925 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01930 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01935 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01940 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01945 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01950 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01955 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01960 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01965 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01970 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01975 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01980 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01985 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01990 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.01995 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02000 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02005 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02010 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02015 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02020 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02025 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02030 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02035 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02040 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02045 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02050 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02055 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02060 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02065 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02070 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02075 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02080 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02085 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02090 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02095 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02100 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02105 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02110 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02115 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02120 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02125 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02130 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02135 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02140 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02145 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02150 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02155 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02160 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02165 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02170 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02175 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02180 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02185 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02190 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02195 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02200 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02205 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02210 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02215 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02220 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02225 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02230 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02235 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02240 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02245 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02250 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02255 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02260 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02265 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02270 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02275 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02280 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02285 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02290 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02295 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02300 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02305 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02310 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02315 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02320 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02325 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02330 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02335 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02340 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02345 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02350 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02355 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02360 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02365 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02370 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02375 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02380 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02385 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02390 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02395 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02400 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02405 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02410 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02415 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02420 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02425 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02430 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02435 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02440 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02445 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02450 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02455 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02460 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02465 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02470 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02475 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02480 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02485 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02490 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02495 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02500 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02505 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02510 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02515 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02520 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02525 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02530 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02535 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02540 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02545 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02550 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02555 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02560 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02565 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02570 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02575 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02580 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02585 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02590 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02595 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02600 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02605 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02610 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02615 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02620 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02625 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02630 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02635 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02640 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02645 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02650 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02655 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02660 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02665 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02670 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02675 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02680 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02685 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02690 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02695 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02700 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02705 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02710 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02715 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02720 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02725 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02730 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02735 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02740 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02745 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02750 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02755 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02760 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02765 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02770 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02775 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02780 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02785 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02790 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02795 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02800 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02805 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02810 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02815 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02820 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02825 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02830 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02835 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02840 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02845 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02850 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02855 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02860 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02865 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02870 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02875 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02880 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02885 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02890 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02895 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02900 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02905 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02910 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02915 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02920 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02925 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02930 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02935 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02940 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02945 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02950 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02955 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02960 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02965 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02970 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02975 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02980 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02985 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02990 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.02995 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03000 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03005 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03010 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03015 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03020 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03025 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03030 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03035 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03040 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03045 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03050 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03055 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03060 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03065 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03070 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03075 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03080 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03085 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03090 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03095 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03100 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03105 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03110 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03115 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03120 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03125 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03130 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03135 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03140 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03145 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03150 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03155 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03160 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03165 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03170 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03175 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03180 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03185 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03190 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03195 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03200 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03205 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03210 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03215 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03220 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03225 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03230 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03235 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03240 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03245 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03250 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03255 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03260 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03265 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03270 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03275 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03280 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03285 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03290 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03295 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03300 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03305 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03310 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03315 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03320 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03325 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03330 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03335 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03340 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03345 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03350 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03355 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03360 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03365 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03370 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03375 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03380 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03385 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03390 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03395 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03400 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03405 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03410 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03415 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03420 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03425 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03430 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03435 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03440 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03445 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03450 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03455 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03460 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03465 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03470 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03475 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03480 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03485 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03490 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03495 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03500 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03505 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03510 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03515 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03520 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03525 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03530 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03535 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03540 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03545 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03550 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03555 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03560 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03565 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03570 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03575 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03580 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03585 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03590 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03595 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03600 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03605 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03610 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03615 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03620 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03625 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03630 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03635 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03640 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03645 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03650 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03655 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03660 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03665 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03670 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03675 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03680 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03685 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03690 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03695 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03700 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03705 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03710 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03715 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03720 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03725 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03730 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03735 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03740 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03745 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03750 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03755 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03760 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03765 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03770 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03775 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03780 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03785 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03790 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03795 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03800 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03805 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03810 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03815 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03820 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03825 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03830 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03835 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03840 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03845 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03850 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03855 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03860 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03865 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03870 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03875 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03880 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03885 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03890 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03895 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03900 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03905 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03910 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03915 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03920 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03925 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03930 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03935 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03940 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
+	symb xloc = 0.03945 * $coordFactor
+	symb yloc = 0.01655 * $coordFactor
+	hist xyz aprs $xloc * * $yloc * *
